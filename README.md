@@ -7,8 +7,7 @@ To evaluate which model hallucinates more in a government contracting context an
 
 ## Structure
 - `prompt_results.csv`: Logs each prompt, model used, mitigation strategy, and hallucination outcome.
-- `screenshots/`: Folder for LLM response screenshots (one per model per prompt).
-- `notebook.ipynb` *(optional)*: For those who want to present the data using code (can be added later).
+- `screenshots.pdf`: Document for LLM response screenshots with screenshots for each prompt and mitigation techniques
 
 ## Prompt Mitigation Strategies
 1. Add a disclaimer: "If unsure, say 'I don’t know.'"
