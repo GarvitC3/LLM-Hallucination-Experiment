@@ -14,3 +14,5 @@ To evaluate which model hallucinates more in a government contracting context an
 2. Ask for citations
 3. Break the prompt into smaller parts
 
+## Why this experiment took place
+This was created to test how different LLMs react to fictionary prompts and if they hallucinate fake information. Made for an internship at the defense contracting startup **Sales Patriot**.
